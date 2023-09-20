@@ -33,3 +33,5 @@ while True:
    print ("all tests have been run")
 
    '''We can infer from the div(num) that the div() is working properly since it gives error message on the float test. We were able to make sure on the float and "string" test'''
+
+
